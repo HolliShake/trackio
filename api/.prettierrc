@@ -1,0 +1,16 @@
+{
+	"singleQuote": true,
+	"jsxSingleQuote": true,
+	"semi": true,
+	"printWidth": 200,
+	"tabWidth": 4,
+	"useTabs": true,
+	"quoteProps": "preserve",
+	"arrowParens": "avoid",
+	"proseWrap": "never",
+	"trailingComma": "all",
+	"bracketSpacing": true,
+	"importOrder": ["^@?\\w", "^[./]"],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true
+}
